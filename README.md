@@ -1,4 +1,4 @@
-## Harvest_Profit - Inventory Management System
+## Harvest_Profit
 
 <p align="center">
   <a href="http://3.87.75.52:3000">
@@ -6,7 +6,7 @@
   </a>
 </p>
 
-### This Project was submitted in partial fulfillment for the award of Diploma in Advanced Computing (PG-DAC) from CDAC, ACTS Pune
+### This Project was submitted in partial fulfillment for the award of Diploma in Advanced Computing (PG-DAC) from CDAC, Thiruvananthapuram
 
 ------------
 >"Harvest Profit" is a web-based application, where farmers can achieve actual value for their farm goods. The 
@@ -24,7 +24,7 @@ grab an online market..
     - Hibernate as ORM tool
 - #### Frontend
     - React JS as UI library
-    - Tailwind CSS for styling
+    - CSS for styling
     - Redux for state management
     - Axios for making API requests
 - #### Database
@@ -42,12 +42,12 @@ grab an online market..
 
 #### Setup
 1. Download the zip file or clone this repository
-`git clone https://github.com/shivam2894/CDAC-Project.git`
+`git clone https://github.com/Suniket39/HarvestProfit`
 
 2. Open `Backend` folder in Eclipse / STS
 3. Edit `Backend/src/main/resources/application.properties` file as per your configuration
 4. Run the Spring Boot Application
 5. Run the queries provided in `Backend/src/main/resources/sqlQueries/userRoles` in the created database `nk`
 5. Open `Frontend` folder in your preffered editor and run `npm install` to install all dependencies
-6. Run `npm run dev` and access the development server on `http://localhost:3000` on your browser
+6. Run `npm start` and access the development server on `http://localhost:3000` on your browser
 
