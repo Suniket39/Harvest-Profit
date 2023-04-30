@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="http://3.87.75.52:3000">
-    <img src="https://looka.com/s/123665256"/>
+    <img src="https://imgur.com/a/pXy9xqh"/>
   </a>
 </p>
 
