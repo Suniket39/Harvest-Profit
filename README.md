@@ -2,14 +2,18 @@
 
 <p align="center">
   <a href="http://3.87.75.52:3000">
-    <img src="https://imgur.com/a/pXy9xqh"/>
+    <img src="https://ibb.co/Dk6d2dz"/>
   </a>
 </p>
 
 ### This Project was submitted in partial fulfillment for the award of Diploma in Advanced Computing (PG-DAC) from CDAC, ACTS Pune
 
 ------------
->“NattuKaka"Web Application which is an online inventory management system enabling customers to keep track of all the products that your business has in stock. Company can update, insert , delete as well as view & track their Inventory. The admin has full access to the resources available, and he can also add role based members with limited access to the resources.
+>"Harvest Profit" is a web-based application, where farmers can achieve actual value for their farm goods. The 
+objective is to provide a reliable, easier, and time-saving auction system that allows buyers to bid for those farm 
+goods, thus eradicating middle man and benefiting farmers and buyers. Simultaneously farmers can buy 
+necessary fertilizers, insecticides, and pesticides at reasonable prices, an opportunity for fertilizer dealers to 
+grab an online market..
 
 ------------
 #### Technologies used:
