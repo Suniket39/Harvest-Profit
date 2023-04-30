@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="http://3.87.75.52:3000">
-    <img src="https://drive.google.com/file/d/1nVhdyG9MBLaZ-og_lG24bJpddKCmXKbi/view?usp=share_link"/>
+    <img src="https://user-images.githubusercontent.com/102083055/235347358-9551ea48-6b33-4738-934c-49c3fa44b8c7.png"/>
   </a>
 </p>
 
